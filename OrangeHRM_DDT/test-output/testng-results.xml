@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-06T10:20:01Z" name="Default suite" finished-at="2024-01-06T10:20:14Z" duration-ms="12930">
+    <groups>
+    </groups>
+    <test started-at="2024-01-06T10:20:01Z" name="Default test" finished-at="2024-01-06T10:20:14Z" duration-ms="12930">
+      <class name="orangehrm.testcases.AdminLoginwithValidInputs">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:orangehrm.testcases.AdminLoginwithValidInputs@645aa696]" started-at="2024-01-06T10:19:44Z" name="launchApp" finished-at="2024-01-06T10:20:01Z" duration-ms="16935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="checkAdminLogin()[pri:0, instance:orangehrm.testcases.AdminLoginwithValidInputs@645aa696]" started-at="2024-01-06T10:20:01Z" name="checkAdminLogin" finished-at="2024-01-06T10:20:14Z" duration-ms="12886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAdminLogin -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:orangehrm.testcases.AdminLoginwithValidInputs@645aa696]" started-at="2024-01-06T10:20:14Z" name="closeApp" finished-at="2024-01-06T10:20:15Z" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- orangehrm.testcases.AdminLoginwithValidInputs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

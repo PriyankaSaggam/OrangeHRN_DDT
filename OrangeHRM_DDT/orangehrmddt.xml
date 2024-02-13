@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name ="OrangrHRM Dasata Driven Test Suite">
+	<test name ="Admin Login with valid inputs">
+		<classes>
+			<class name ="orangehrm.testcases.AdminLoginwithValidInputs"></class>
+			</classes>
+	</test>
+	
+	<test name ="Admin Login with Invalid inputs">
+		<classes>
+			<class name ="orangehrm.testcases.AdminLoginwithInvalidInputs"></class>
+			</classes>
+	</test>
+	
+	
+</suite>
